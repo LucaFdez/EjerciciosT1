@@ -1,5 +1,4 @@
 package et1.arrays;
-import java.util.Scanner;
 
 
 /*Reciba una matriz (array bidimensional de floats, siguiendo el orden de primero fila y
